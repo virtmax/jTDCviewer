@@ -1,0 +1,12 @@
+[submodule "external/MbsClient"]
+	path = external/MbsClient
+	url = https://github.com/virtmax/MbsClient
+[submodule "external/qcustomplotzoom"]
+	path = external/qcustomplotzoom
+	url = https://github.com/virtmax/qcustomplotzoom.git
+[submodule "external/NucMath"]
+	path = external/NucMath
+	url = https://github.com/virtmax/NucMath
+[submodule "external/VmeModules"]
+	path = external/VmeModules
+	url = https://github.com/virtmax/VmeModules
