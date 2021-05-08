@@ -10,8 +10,14 @@
     <height>828</height>
    </rect>
   </property>
+  <property name="font">
+   <font>
+    <pointsize>11</pointsize>
+    <italic>false</italic>
+   </font>
+  </property>
   <property name="windowTitle">
-   <string>jTDCviewer v2020.05.02</string>
+   <string>jTDCviewer v2021.05.08</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QGridLayout" name="gridLayout">
@@ -469,7 +475,7 @@
      <x>0</x>
      <y>0</y>
      <width>1537</width>
-     <height>20</height>
+     <height>23</height>
     </rect>
    </property>
   </widget>
@@ -488,7 +494,7 @@
   <customwidget>
    <class>QCustomPlotZoom</class>
    <extends>QWidget</extends>
-   <header>../qcustomplotzoom/qcustomplotzoom.h</header>
+   <header>qcustomplotzoom/qcustomplotzoom.h</header>
    <container>1</container>
   </customwidget>
  </customwidgets>

@@ -492,7 +492,7 @@ void MainWindow::on_pB_fit_clicked()
         std::vector<double> result;
         std::vector<double> result_sigma;
 
-        MODELFUNC fitModel = [&](const std::vector<double> &p, const nucmath::Vector<double> &x)
+        nucmath::MODELFUNC fitModel = [&](const std::vector<double> &p, const nucmath::Vector<double> &x)
         {
             return nucmath::normal_dist_pdf({p[0],p[1],p[2]}, x(0));
         };

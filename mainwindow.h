@@ -13,15 +13,15 @@
 
 #include <QMainWindow>
 
-#include "../MbsClient/mbsclient.h"
-#include "../VmeModules/readoutmarkers.h"
-#include "../VmeModules/elb_vfb6_unpacker.h"
-#include "../NucMath/src/minimizer.h"
-#include "../NucMath/src/functions.h"
-#include "../NucMath/src/hist.h"
-#include "../NucMath/src/hist2.h"
+#include "MbsClient/mbsclient.h"
+#include "VmeModules/readoutmarkers.h"
+#include "VmeModules/elb_vfb6_unpacker.h"
+#include "NucMath/src/minimizer.h"
+#include "NucMath/src/functions.h"
+#include "NucMath/src/hist.h"
+#include "NucMath/src/hist2.h"
 
-#include "../qcustomplotzoom/qcustomplotzoom.h"
+#include "qcustomplotzoom/qcustomplotzoom.h"
 
 
 #include <iostream>

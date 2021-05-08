@@ -65,7 +65,8 @@ HEADERS  += mainwindow.h \
 
 FORMS    += mainwindow.ui
 
-INCLUDEPATH += "external/qcustomplotzoom/" \
+INCLUDEPATH += "external/" \
+                "external/qcustomplotzoom/" \
                 "external/MbsClient/GSI_MBS_API/MbsAPIbase/" \
                 "external/MbsClient/GSI_MBS_API/MbsAPI/" \
                 "external/MbsClient/"
