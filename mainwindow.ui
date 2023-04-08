@@ -17,7 +17,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>jTDCviewer v2021.05.08</string>
+   <string>jTDCviewer v2023.04.08</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QGridLayout" name="gridLayout">
@@ -475,7 +475,7 @@
      <x>0</x>
      <y>0</y>
      <width>1537</width>
-     <height>23</height>
+     <height>30</height>
     </rect>
    </property>
   </widget>
